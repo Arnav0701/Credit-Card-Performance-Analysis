@@ -53,6 +53,9 @@ Developed two interactive dashboards:
 * Performance trends
 * Key financial indicators
 
+  <img width="1157" height="650" alt="Screenshot 2026-03-24 130217" src="https://github.com/user-attachments/assets/86af6b10-edcf-4d5d-aacf-9b365127a48c" />
+
+
 #### 👥 Credit Card Customer Dashboard
 
 * Customer segmentation insights
@@ -66,6 +69,9 @@ Developed two interactive dashboards:
 * KPI-based visual summaries
 
 * Clean and structured data model
+
+  <img width="1155" height="643" alt="Screenshot 2026-03-24 130154" src="https://github.com/user-attachments/assets/0907bcb3-39aa-45c9-a94b-368366e4fb3e" />
+
 
 ---
 
